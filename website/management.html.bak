@@ -5,18 +5,26 @@
     <title>Book with us</title>
   </head>
   <body style="      background-color: #003333;">
-    <p style="text-align: center;"> <a href="file:///D:/school/sprint1/website/homepage_image.jpg"><img
-          src="file:///D:/school/sprint1/website/homepage_image.jpg" alt="Sinquis"
+    <p style="text-align: center;"> <a href="https://kippah2.github.io/Sinquis/website/homepage_image.jpg"><img
+
+          src="https://kippah2.github.io/Sinquis/website/homepage_image.jpg" alt="Sinquis"
+
           title="Sinquis" style="width: 332px; height: 170px;"></a></p>
     <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
               Incorporated</i></u></span></span></h1>
-    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/home%20page.html"><button
-          name="Home">Home</button></a><a href="file:///D:/school/sprint1/website/about%20us.html"
-        target="_top"><button name="About us">About us</button></a><a href="file:///D:/school/sprint1/website/Book%20with%20us.html"><button
-          name="Book with us">Book with us</button></a><a href="file:///D:/school/sprint1/website/management.html"><button
-          name="Schedule">Management</button></a><a href="file:///D:/school/sprint1/website/dial%20reservation.html"><button
+    <div style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/home%20page.html"><button
+
+          name="Home">Home</button></a><a href="https://kippah2.github.io/Sinquis/website/about%20us.html"
+
+        target="_top"><button name="About us">About us</button></a><a href="https://kippah2.github.io/Sinquis/website/Book%20with%20us.html"><button
+
+          name="Book with us">Book with us</button></a><a href="https://kippah2.github.io/Sinquis/website/management.html"><button
+
+          name="Schedule">Management</button></a><a href="https://kippah2.github.io/Sinquis/website/dial%20reservation.html"><button
+
           name="Call in">Dial Reservation</button></a></div>
-    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/support.html"><button
+    <div style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/support.html"><button
+
           name="needsupport">Need support?</button></a></div>
     <div style="margin-left: 480px;"> </div>
     <h3 style="text-align: left; margin-left: 520px;"><span style="color: white;">Management
@@ -29,7 +37,8 @@
     <div style="text-align: left; margin-left: 560px;"><span style="color: white;">Phone
         Number: <input name="phone" type="tel"><br>
       </span></div>
-    <div style="text-align: left; margin-left: 560px;"><span style="color: white;">&nbsp;</span><span
+    <div style="text-align: left; margin-left: 560px;"><span style="color: white;">&nbsp;</span><span
+
         style="color: white;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
@@ -37,7 +46,8 @@
     <div style="margin-left: 520px;"> </div>
     <div style="text-align: left;">
       <div style="margin-left: 560px;">
-        <div style="margin-left: 80px;"><a href="file:///D:/school/website/submitted.html"><button
+        <div style="margin-left: 80px;"><a href="https://kippah2.github.io/Sinquis/website/submitted.html"><button
+
               name="Complete Information">Complete Info</button></a></div>
       </div>
       <div style="margin-left: 600px;"> </div>
