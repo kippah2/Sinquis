@@ -4,53 +4,64 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>home page</title>
   </head>
-  <body style=" background-color: #003333;">
-    <p style="text-align: center;"> <a href="file:///D:/school/sprint1/website/homepage_image.jpg"><img
-          src="file:///D:/school/sprint1/website/homepage_image.jpg" alt="Sinquis"
+  <body style="     background-color: #003333;">
+    <p style="text-align: center;"> <a href="file:///D:/school/sprint1/website/homepage_image.jpg"><img
+
+          src="file:///D:/school/sprint1/website/homepage_image.jpg" alt="Sinquis"
+
           title="Sinquis" style="width: 332px; height: 170px;"></a></p>
     <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
               Incorporated</i></u></span></span></h1>
-    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/home%20page.html"><button
-          name="Home">Home</button></a><a href="file:///D:/school/sprint1/website/about%20us.html"
-        target="_top"><button name="About us">About us</button></a><a href="file:///D:/school/sprint1/website/Book%20with%20us.html"><button
-          name="Book with us">Book with us</button></a><a href="file:///D:/school/sprint1/website/management.html"><button
-          name="Schedule">Management</button></a><a href="file:///D:/school/sprint1/website/dial%20reservation.html"><button
+    <div style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/home%20page.html"><button
+
+          name="Home">Home</button></a><a href="https://kippah2.github.io/Sinquis/website/home%20page.html"
+
+        target="_top"></a><a href="https://kippah2.github.io/Sinquis/website/Book%20with%20us.html"><button
+
+          name="Book with us">Book with us</button></a><a href="https://kippah2.github.io/Sinquis/website/management.html"><button
+
+          name="Schedule">Management</button></a><a href="https://kippah2.github.io/Sinquis/website/dial%20reservation.html"><button
+
           name="Call in">Dial Reservation</button></a></div>
-    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/support.html"><button
+    <div style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/support.html"><button
+
           name="needsupport">Need support?</button></a> </div>
     <p><br>
     </p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/department.html">Departments</a></p>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/catering.html">Catering</a><br>
+    </p>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/department.html">Departments</a></p>
     <p style="text-align: center;"><br>
     </p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/agreement.html">Agreements</a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/agreement.html"></a><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/agreement.html">Agreements</a></p>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/agreement.html"></a><br>
     </p>
-    <p style="background-color: #003333; text-align: center;"><span style="color: #3333ff;"><a
+    <p style="background-color: #003333; text-align: center;"><span style="color: #3333ff;"><a
+
           href="file:///D:/school/sprint1/website/payment.html">Interested in
           Payment? Click Here!</a></span></p>
     <p style="background-color: #003333; text-align: center;"><br>
     </p>
-    <p style="text-align: center;"><a href="file:///D:/school/website/UpcomingEvents.html">Upcoming
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/UpcomingEvents.html">Upcoming
         Events...</a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/website/UpcomingEvents.html"><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/UpcomingEvents.html"><br>
       </a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/venues.html">View
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/venues.html">View
         our Venues!</a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/venues.html"><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/venues.html"><br>
       </a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/reportGenerator.html">Monthly
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/reportGenerator.html">Monthly
         Financial Reports<br>
       </a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/venues.html"><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/venues.html"><br>
       </a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/venues.html"><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/venues.html"><br>
       </a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/sprint1/website/venues.html"><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/venues.html"><br>
       </a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/website/UpcomingEvents.html"><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/UpcomingEvents.html"><br>
       </a></p>
-    <p style="text-align: center;"><a href="file:///D:/school/website/UpcomingEvents.html"><br>
+    <p style="text-align: center;"><a href="https://kippah2.github.io/Sinquis/website/UpcomingEvents.html"><br>
       </a></p>
     <p><br>
     </p>

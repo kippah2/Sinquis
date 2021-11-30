@@ -5,17 +5,26 @@
     <title>home page</title>
   </head>
   <body style="  background-color: #003333;">
-    <p style="text-align: center;"> <img src="file:///D:/school/website/homepage_image.jpg"
-        alt="Sinquis" title="Sinquis" style="width: 332px; height: 170px;"></p>
+    <p style="text-align: center;"> <a href="file:///D:/school/sprint1/website/homepage_image.jpg"><img
+
+          src="file:///D:/school/sprint1/website/homepage_image.jpg" alt="Sinquis"
+
+          title="Sinquis" style="width: 332px; height: 170px;"></a></p>
     <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
               Incorporated</i></u></span></span></h1>
-    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/home%20page.html"><button
-          name="Home">Home</button></a><a href="file:///D:/school/sprint1/website/about%20us.html"
-        target="_top"><button name="About us">About us</button></a><a href="file:///D:/school/sprint1/website/Book%20with%20us.html"><button
-          name="Book with us">Book with us</button></a><a href="file:///D:/school/sprint1/website/management.html"><button
-          name="Schedule">Management</button></a><a href="file:///D:/school/sprint1/website/dial%20reservation.html"><button
+    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/home%20page.html"><button
+
+          name="Home">Home</button></a><a href="file:///D:/school/sprint1/website/about%20us.html"
+
+        target="_top"><button name="About us">About us</button></a><a href="file:///D:/school/sprint1/website/Book%20with%20us.html"><button
+
+          name="Book with us">Book with us</button></a><a href="file:///D:/school/sprint1/website/management.html"><button
+
+          name="Schedule">Management</button></a><a href="file:///D:/school/sprint1/website/dial%20reservation.html"><button
+
           name="Call in">Dial Reservation</button></a></div>
-    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/support.html"><button
+    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/support.html"><button
+
           name="needsupport">Need support?</button></a> </div>
     <p><br>
     </p>
@@ -25,7 +34,8 @@
         a question?</span></p>
     <p style="text-align: center;"><span style="color: white;">Fill out the
         message box below:</span></p>
-    <div style="text-align: center;"><input name="help" size="100" maxlength="100"
+    <div style="text-align: center;"><input name="help" size="100" maxlength="100"
+
         type="text"></div>
     <div style="text-align: center;"><br>
     </div>
@@ -33,7 +43,8 @@
         email:</span> <input name="email" type="text"></div>
     <div style="text-align: center;"><br>
     </div>
-    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/submitted.html"><button
+    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/submitted.html"><button
+
           name="Submit">Submit</button></a></div>
     <div style="text-align: center;"><br>
     </div>

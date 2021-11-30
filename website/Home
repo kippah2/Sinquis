@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	</head>
+	<body>
+		<div id="opening"> <ul id="welcome">
+			<li> A </li>
+			<li> B </li>
+			<li> O </li>
+			<li> U </li>
+			<li> T </li>
+			<li>  </li>
+			<li> U </li>
+			<li> S </li> </ul> </div>
+		<div id="navbar">
+			<a href="#Home"> Home </a>
+			<a href="#AboutUs"> About Us </a> 
+			<a href="#Booking"> Book With Us </a> 
+		</div>
+
+		<div id="mainbody"> 
+			<div id="text"> 
+				<p id="paragraph"> 
+				</p> 
+			</div>
+	</body>

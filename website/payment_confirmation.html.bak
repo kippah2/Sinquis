@@ -21,10 +21,18 @@
     <div style="margin-left: 480px;"> </div>
     <h3 style="text-align: left; margin-left: 520px;"><span style="color: white;">Payment
         Information:</span></h3>
-    <p><br>
-    </p>
-    <p><br>
-    </p>
+    <p style="text-align: center;"><span style="color: white;">Name on Card: <input
+          name="cardname" type="text"></span></p>
+    <p style="text-align: center;"><span style="color: white;">Card Number: <input
+          name="carcnum" type="text"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">CVV: <input name="cvv"
+          type="text"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Exp Date:</span>
+      <input name="name" type="text"></p>
+    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/submitted.html"><button
+          name="Process Information">Process Payment</button></a></div>
     <div style="margin-left: 520px;"> </div>
     <div style="margin-left: 560px;"> </div>
     <div style="text-align: left;">

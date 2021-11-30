@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>about us</title>
   </head>
-  <body style="  background-color: #003333;">
+  <body style="   background-color: #003333;">
     <p style="text-align: center;"> <img src="file:///D:/school/sprint1/website/homepage_image.jpg"
         alt="Sinquis" title="Sinquis" style="width: 332px; height: 170px;"></p>
     <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
@@ -24,8 +24,7 @@
     <p style="background-color: #003333;"><br>
     </p>
     <p style="background-color: #003333;"><span style="color: white;">Please
-        review the Tasks and Status of the following table, complete any
-        incomplete tasks:</span><br>
+        review the following tables, complete any incomplete tasks:</span><br>
     </p>
     <table style="width: 1336px; height: 103px;" border="1">
       <tbody>
@@ -54,6 +53,29 @@
     </table>
     <p style="text-align: center;"><br>
     </p>
+    <p style="text-align: center;"><b><span style="color: white;">Anticipated
+          Growth and Projections:</span></b></p>
+    <p style="text-align: center;"><b><span style="color: white;"></span></b></p>
+    <table style="width: 1336px; height: 53px;" border="1">
+      <tbody>
+        <tr>
+          <td style="text-align: center;"><span style="color: white;">Growth
+              y/y:</span></td>
+          <td style="text-align: center;"><span style="color: white;">Balance
+              Sheet:</span></td>
+        </tr>
+        <tr>
+          <td style="width: 375.233px; text-align: center;"><img src="https://blog.roboforex.com/wp-content/uploads/2021/02/3-cpng-scaled.jpg"
+              alt="growth" title="growth" style="width: 334px; height: 433px;"><br>
+          </td>
+          <td style="width: 945.967px; text-align: center;"><img src="https://blog.roboforex.com/wp-content/uploads/2021/02/4-cpng.png"
+              alt="sheet" title="sheet" style="width: 873px; height: 384px;"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="text-align: center;"><b><span style="color: white;"><br>
+        </span></b></p>
     <div style="text-align: center;"> </div>
   </body>
 </html>

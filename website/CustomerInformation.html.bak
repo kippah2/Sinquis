@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>CustomerInformation</title>
+    <link type="text/css" rel="stylesheet" href="file:///D:/Purdue/CNIT%20280/Website/CustomerInfoStyleSheet.css"
+
+      title="CustomerInfoStyleSheet">
+  </head>
+  <body style="          background-color: #003333;">
+    <p style="text-align: center;"> <img src="file:///D:/school/website/homepage_image.jpg"
+
+        alt="Sinquis" title="Sinquis" style="width: 332px; height: 170px;"></p>
+    <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
+              Incorporated</i></u></span></span></h1>
+    <div style="text-align: center;"><button name="Home">Home</button><button name="About us">About
+        us</button><button name="Book with us">Book with us</button><button name="Schedule">Schedule</button></div>
+    <div style="margin-left: 480px;"> </div>
+    <br>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+    $( function() {
+      $( "#datepicker" ).datepicker();
+    } );
+    </script>
+    <p style="text-align: center;"><b><span style="color: #fdfaf4;">Customer
+          Information:</span></b></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Customer Name:
+        James Henderson</span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Organization:
+        Paws for Peace Convention<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Address: 675
+        Woodlock Lane, Evansville IN<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Phone Number:
+        (608) 357-9428<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event History:
+        No prior bookings<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Current Booking
+        Date: 11/30/2021<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Amount Paid: $0<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Amount Due:
+        $7500<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Account ID:
+        1168452135<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;"><br>
+      </span></p>
+    <div style="margin-left: 560px;"> </div>
+    <div style="text-align: left;">
+      <div style="margin-left: 560px;">
+        <div style="left: 50%;"><button name="Complete Information">Complete
+            Info</button></div>
+      </div>
+      <div style="margin-left: 600px;"> </div>
+      <br>
+    </div>
+    <div style="text-align: right;"><br>
+    </div>
+    <p style="background-color: #003333;"><br>
+    </p>
+    <p><br>
+    </p>
+    <div style="text-align: center;"> </div>
+  </body>
+</html>
