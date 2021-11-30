@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>about us</title>
+  </head>
+  <body style="  background-color: #003333;">
+    <p style="text-align: center;"> <img src="file:///D:/school/sprint1/website/homepage_image.jpg"
+        alt="Sinquis" title="Sinquis" style="width: 332px; height: 170px;"></p>
+    <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
+              Incorporated</i></u></span></span></h1>
+    <div style="text-align: center;"><a href="file:///D:/school/website/home%20page.html"><button
+          name="Home">Home</button></a><a href="file:///D:/school/website/about%20us.html"><button
+          name="About us">About us</button></a><a href="file:///D:/school/website/Book%20with%20us.html"><button
+          name="Book with us">Book with us</button></a><a href="file:///D:/school/website/management.html"><button
+          name="Schedule"><span style="font-family: serif;">Management</span></button></a><a
+        href="file:///D:/school/website/dial%20reservation.html"><button name="Call in">Dial
+          Reservation</button></a> </div>
+    <p style="text-align: center;"><br>
+    </p>
+    <p style="text-align: center;"><b><span style="color: white;">Hello User:
+          You belong to the Accounting department!</span></b><br>
+    </p>
+    <p style="background-color: #003333;"><br>
+    </p>
+    <p style="background-color: #003333;"><span style="color: white;">Please
+        review the Tasks and Status of the following table, complete any
+        incomplete tasks:</span><br>
+    </p>
+    <table style="width: 1336px; height: 103px;" border="1">
+      <tbody>
+        <tr>
+          <td style="text-align: center;"><b><u><span style="color: white;">Task:</span></u></b></td>
+          <td style="text-align: center;"><u><span style="color: white;"><b>Status</b>:</span></u></td>
+        </tr>
+        <tr>
+          <td style="width: 663.383px; text-align: center;"><span style="color: white;">Review
+              Balance Sheet</span></td>
+          <td style="width: 657.817px; text-align: center;"><span style="color: white;">Complete</span></td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><span style="color: white;">Conduct
+              Analysis of Revenue for Q3 and Q4</span></td>
+          <td style="text-align: center;"><span style="color: white;">Not
+              Complete</span></td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><span style="color: white;">Conduct
+              Analysis of Earnings per Share (EPS) for Q3 and Q4</span></td>
+          <td style="text-align: center;"><span style="color: white;">Not
+              Complete</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="text-align: center;"><br>
+    </p>
+    <div style="text-align: center;"> </div>
+  </body>
+</html>

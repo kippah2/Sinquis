@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>about us</title>
+  </head>
+  <body style="  background-color: #003333;">
+    <p style="text-align: center;"> <img src="file:///D:/school/sprint1/website/homepage_image.jpg"
+        alt="Sinquis" title="Sinquis" style="width: 332px; height: 170px;"></p>
+    <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
+              Incorporated</i></u></span></span></h1>
+    <div style="text-align: center;"><a href="file:///D:/school/website/home%20page.html"><button
+          name="Home">Home</button></a><a href="file:///D:/school/website/about%20us.html"><button
+          name="About us">About us</button></a><a href="file:///D:/school/website/Book%20with%20us.html"><button
+          name="Book with us">Book with us</button></a><a href="file:///D:/school/website/management.html"><button
+          name="Schedule"><span style="font-family: serif;">Management</span></button></a><a
+        href="file:///D:/school/website/dial%20reservation.html"><button name="Call in">Dial
+          Reservation</button></a> <a href="file:///D:/school/website/agreement.html"><button
+          name="Agreement" style="margin-left: -4px;">Agreement</button></a> </div>
+    <h1 style=" text-align: center;"><br>
+      <span style="color: #fdfcfb;"></span><span style="color: #fdfcfb;">Catering
+        Options</span></h1>
+    <p style="text-align: center;"><span style="color: #fdfcfb;">We have
+        partnered with a curated selection of local small businesses to cater
+        your events. <br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfcfb;">When booking
+        your event, please let us know if you'd like to employ one within 1-2
+        months so that we may appropriately accommodate them.</span></p>
+    <p>'</p>
+    <p style="text-align: center;"><strong><span style="color: #fdfcfb;">Silk
+          Road Mediterranean Grill</span></strong></p>
+    <div style="text-align: center;"><img src="http://www.lchaimmagazine.com/wp-content/uploads/2021/04/Food.png"
+        alt="Shawarma Chicken, Israeli Salad and Tahini Dressing – L&amp;#39;CHAIM MAGAZINE"
+        class="n3VNCb" data-noaft="1" style="width: 735px; height: 491.985px; margin: 0px;"></div>
+    <p style="text-align: center;"><span style="color: white;">Enjoy delectable
+        yet simple Mediterranean options such as Schwarma, Gyros, Israeli Salad,
+        Babaganoush, and other healthy staples of the middle east and
+        mediterranean.</span></p>
+    <p style="text-align: center;"><span style="color: white;">Vegetarian
+        options include Falafel and make your own bowls.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Capable of
+        handling events of 500 to 1500 people.</span></p>
+    <p style="text-align: center;"><span style="color: white;"><u><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+            style="color: #94fd94;">Book Now!</a></u><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><strong>Sushi
+          Pro!<br>
+        </strong></span></p>
+    <div style="text-align: center;"><img src="https://sushidaily.com/assets/front/images/uploads/sushi-daily-sushi-world-records-min.5ca62401b90b3.web.jpg"
+        alt="Sushi-related world records" class="n3VNCb" data-noaft="1" style="width: 735px; height: 735px; margin: 0px;"></div>
+    <p style="text-align: center;"><span style="color: white;">Delicious sushi
+        options which will leave you and your attendees feeling fresh and
+        satiated.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Capable of making
+        large variety of rolls and options.</span></p>
+    <p style="text-align: center;"><span style="color: white;">Available for
+        events of 50 to 450 people.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Price scales with
+        options chosen.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><u><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+            style="color: #94fd94;">Book Now!</a></u></span></p>
+    <p style="text-align: center;"><span style="color: white;"><br>
+      </span></p>
+    <p style="text-align: center;"><strong><span style="color: #fdfcfb;">Tacos
+          El Patron</span></strong></p>
+    <div style="text-align: center;"><img src="https://bestfoodfeed.s3.amazonaws.com/media/287849/conversions/70032508_193698984965954_4119499752844495449_n-highResolution.jpg"
+        title="Carne Asada"></div>
+    <p style="text-align: center;"><span style="color: #fdfcfb;">Tacos El Patron
+        is a family owned, local Mexican restaurant that has been faithfully
+        serving the community for over 30 years.</span></p>
+    <p style="text-align: center;"><span style="color: #fdfcfb;">Enjoy
+        incredible quesodilla carne asada, tacos, gorditas, nachos, and tortas
+        from their food truck.</span></p>
+    <p style="text-align: center;"><span style="color: white;">The truck is
+        capable of handling events of 250 to 1,200 people.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Please give 2
+        months notice if you'd like to book with them.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Price upon
+        inquiry.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><u><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+            style="color: #94fd94;">Book Now!</a></u></span></p>
+    <p style="text-align: center;"><span style="color: white;"></span><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+        style="color: #94fd94;"><br>
+      </a><span style="color: white;"><strong>The Eatery</strong><br>
+      </span></p>
+    <img src="https://prods3.imgix.net/images/articles/2016_05/Featured-Article-Herb-Sandwich-Banh-Bahn-Mi-Dinner-Party-Vietnamese-Sandwiches-Fired-Fish-Recipes.jpg"
+      alt="" title="Banh Mi">
+    <p style="background-color: #003333; text-align: center;"><span style="color: #fdfcfc;">The
+        Eatery is a local Banh Mi restaurant.</span></p>
+    <p style="background-color: #003333; text-align: center;"><span style="color: #fdfcfc;">Enjoy
+        a wide selection of options for your own custom sandwiches.</span></p>
+    <p style="background-color: #003333; text-align: center;"><span style="color: #fdfcfc;">Price
+        upon inquiry.</span></p>
+    <p style="background-color: #003333; text-align: center;"><span style="color: #fdfcfc;">Can
+        cater events of 220 to 600 people.</span><br>
+      <span style="color: white;"><u><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+            style="color: #94fd94;">Book Now!</a></u></span></p>
+    <p style="background-color: #003333; text-align: center;"><span style="color: #fdfcfc;"><br>
+      </span></p>
+    <p style="background-color: #003333; text-align: center;"><span style="color: #fdfcfc;"><strong>If
+          you would like to cater an event with a selection that is not on this
+          list, please contact us by phone at least 3 months in advance.</strong></span></p>
+    <p><br>
+    </p>
+    <div style="text-align: center;"> </div>
+  </body>
+</html>

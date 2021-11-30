@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>about us</title>
+  </head>
+  <body style="   background-color: #003333;"><br>
+    <p style="text-align: center;"> <a href="file:///D:/school/sprint1/website/homepage_image.jpg"><img
+          src="file:///D:/school/sprint1/website/homepage_image.jpg" alt="Sinquis"
+          title="Sinquis" style="width: 332px; height: 170px;"></a></p>
+    <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
+              Incorporated</i></u></span></span></h1>
+    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/home%20page.html"><button
+          name="Home">Home</button></a><a href="file:///D:/school/sprint1/website/about%20us.html"
+        target="_top"><button name="About us">About us</button></a><a href="file:///D:/school/sprint1/website/Book%20with%20us.html"><button
+          name="Book with us">Book with us</button></a><a href="file:///D:/school/sprint1/website/management.html"><button
+          name="Schedule">Management</button></a><a href="file:///D:/school/sprint1/website/dial%20reservation.html"><button
+          name="Call in">Dial Reservation</button></a></div>
+    <div style="text-align: center;"><a href="file:///D:/school/sprint1/website/support.html"><button
+          name="needsupport">Need support?</button></a> </div>
+    <h1 style=" text-align: center;"><span style="color: white;">Venue
+        Information</span></h1>
+    <p>'</p>
+    <p style="text-align: center;"><strong><span style="color: white;">Main
+          Event Space</span></strong></p>
+    <div style="text-align: center;"><img src="conventionmainroom.jpeg" alt="" title="MainRoom"></div>
+    <p style="text-align: center;"><span style="color: white;">Description: This
+        is the primary event space at City Dome and Convention Center. The
+        floors are carpeted with soundproof walls for reduced noise outside the
+        space. Inside you will find enough space to host upwards of 50 vendors,
+        while still leaving attendees space to walk around and look at the
+        different displays. There is also an optional elevated platform that can
+        be used as a stage, with seating for 300 people included upon request. <br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Size: 16,000
+        square feet.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Capacity: 580
+        People<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;">Available Rooms:
+        2<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><u><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+            style="color: #94fd94;">Book Now!</a></u><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><strong>Panel
+          Rooms</strong></span></p>
+    <div style="text-align: center;"><img src="file:///D:/school/sprint1/website/panelroom.jpg"
+        alt="panel" title="panel"></div>
+    <p style="text-align: center;"><span style="color: white;">Description:
+        These panel rooms are located on the second floor. They are equipped
+        with a table for panel speakers and chairs for attendees. Can also have
+        chairs removed and tables put in if the event space is being used for a
+        gathering where food will be served.</span></p>
+    <p style="text-align: center;"><span style="color: white;">Size: 1,200
+        square feet.</span></p>
+    <p style="text-align: center;"><span style="color: white;">Capacity: 70
+        people</span></p>
+    <p style="text-align: center;"><span style="color: white;">Available Rooms:
+        10</span><br>
+      <span style="color: white;"><u><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+            style="color: #94fd94;">Book Now!</a></u></span></p>
+    <p style="text-align: center;"><span style="color: white;"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><strong>Grand
+          Theater</strong></span></p>
+    <div style="text-align: center;"><img src="file:///D:/school/sprint1/website/theaterroom.png"
+        alt="theater" title="theater"></div>
+    <div style="text-align: center;"><br>
+    </div>
+    <p style="text-align: center;"><span style="color: white;">Description: This
+        is the dedicated theater room. It is the largest room at City Dome and
+        Convention Center. It is primarily used for hosting large gatherings or
+        panels. It can also be used for large dinners or Galas.</span></p>
+    <p style="text-align: center;"><span style="color: white;">Size: 11,700
+        square feet.</span></p>
+    <p style="text-align: center;"><span style="color: white;">Capacity: 1300
+        people</span></p>
+    <p style="text-align: center;"><span style="color: white;">Available Rooms:
+        1<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: white;"><u><a href="file:///D:/Purdue/Programs/BlueGriffon%20Content/sprint1/website/Book%20with%20us.html"
+            style="color: #94fd94;">Book Now!</a></u></span></p>
+    <p style="background-color: #003333;"><br>
+    </p>
+    <p><br>
+    </p>
+    <div style="text-align: center;"> </div>
+  </body>
+</html>

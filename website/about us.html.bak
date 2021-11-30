@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>about us</title>
+  </head>
+  <body style="  background-color: #003333;">
+    <p style="text-align: center;"> <img src="file:///D:/school/website/homepage_image.jpg"
+        alt="Sinquis" title="Sinquis" style="width: 332px; height: 170px;"></p>
+    <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
+              Incorporated</i></u></span></span></h1>
+    <div style="text-align: center;"><button name="Home">Home</button><button name="About us">About
+        us</button><button name="Book with us">Book with us</button><button name="Schedule"><span
+          style="font-family: serif;">Management</span></button><button name="Call in">Dial
+        Reservation</button> </div>
+    <p><br>
+    </p>
+    <p style="background-color: #003333;"><br>
+    </p>
+    <p><br>
+    </p>
+    <div style="text-align: center;"> </div>
+  </body>
+</html>

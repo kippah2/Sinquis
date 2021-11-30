@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Upcoming Events</title>
+    <link type="text/css" rel="stylesheet" href="file:///D:/Purdue/CNIT%20280/Website/CustomerInfoStyleSheet.css"
+      title="CustomerInfoStyleSheet">
+    <link type="text/css" rel="stylesheet" href="file:///D:/Purdue/CNIT%20280/Website/UpcomingEventsStyleSheets.css"
+      title="UpcomingEvents">
+  </head>
+  <body style="              background-color: #003333;">
+    <p style="text-align: center;"> <img src="file:///D:/school/website/homepage_image.jpg"
+        alt="Sinquis" title="Sinquis" style="width: 332px; height: 170px;"></p>
+    <h1 style=" text-align: center;"><span style="color: white;"><span style="font-family: Vladimir Script;"><u><i>Sinquis
+              Incorporated</i></u></span></span></h1>
+    <div id="navbar" style="text-align: center;">&nbsp; <a href="#Home"> </a><a
+        href="#Booking"></a><a href="file:///D:/school/website/home%20page.html"><button
+          name="Home">Home</button></a><a href="file:///D:/school/website/about%20us.html"><button
+          name="About us">About us</button></a><a href="file:///D:/school/website/Book%20with%20us.html"><button
+          name="Book with us">Book with us</button></a><a href="file:///D:/school/website/management.html"><button
+          name="Management"><span style="font-family: serif;">Management</span></button></a><a
+        href="file:///D:/school/website/dial%20reservation.html"><button name="Call in">Dial
+          Reservation</button></a> </div>
+    <div style="margin-left: 480px;"> </div>
+    <br>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+    $( function() {
+      $( "#datepicker" ).datepicker();
+    } );</script>
+    <p style="text-align: center;"><b><span style="color: #fdfaf4;">Upcoming
+          Events:<br>
+        </span></b></p>
+    <p style="text-align: center;"><br>
+      <img src="https://i.ytimg.com/vi/XxgIEeIBCFo/maxresdefault.jpg" alt="All About Glass Blowing (Introductory Class) - YouTube"
+        style="width: 321px; height: 180px;"></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Name:
+        Glassblowing Bananza!</span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Date:
+        10/25/2021 - 10/28/2021<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event
+        Description: Glass blowers from all around the region gather to share
+        their work, be inspired, and make connections with other artists.
+        Special guest speaker Dale Chihuly.<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Location:
+        Main event space, panel rooms 3-7, second floor event space<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Website:
+        GlassblowersConvention2021.com<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;"><br>
+      </span></p>
+    <p style="text-align: center;"><img src="https://s3.amazonaws.com/cms.ipressroom.com/259/files/20179/59db6cd62cfac23f7df24aaa_DE-Linemans-Rodeo-Practice-4319/DE-Linemans-Rodeo-Practice-4319_mid.jpg"
+        alt="85 Duke Energy linemen to compete at world competition | Duke Energy | News  Center"
+        style="width: 351px; height: 197px;"></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Name:
+        Electricians Union Conference 2021<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Date:
+        10/30/2021<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event
+        Description: Annual conferernce for electricians in the Electricians
+        Union<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Location:
+        Panel rooms 1-4, second floor event space<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;">Event Website:
+        ElectriciansUnion.com<br>
+      </span></p>
+    <p style="text-align: center;"><span style="color: #fdfaf4;"><br>
+      </span></p>
+    <h1 style=" background-color: #003333; text-align: center;"><span style="color: white;">Want
+        to join our news letter for renting a venue and upcoming events?</span></h1>
+    <p style="background-color: #003333; text-align: center;"><span style="color: white;">Email:
+        <input name="newsletter" type="text"></span><br>
+    </p>
+    <div style="margin-left: 520px;"> </div>
+    <div style="text-align: left;">
+      <div style="margin-left: 560px;">
+        <div style="margin-left: 80px; text-align: left;"><a href="file:///D:/school/website/submitted.html"><button
+              name="Complete Information">Submit</button></a></div>
+      </div>
+      <div style="margin-left: 600px;"> </div>
+    </div>
+    <p style="text-align: center;"> </p>
+    <div style="text-align: center;"> </div>
+  </body>
+</html>
